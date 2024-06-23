@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --wood: #dc9538;
+  --dark-wood: #6a430f;
+  --red-wood: #a82020;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: var(--dark-wood);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--red-wood);
+  border-radius: 10px;
+}
+
