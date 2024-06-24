@@ -72,7 +72,7 @@
 }
 
 .open-modal {
-  animation: show-modal 0.48s linear;
+  animation: show-modal 0.48s ease-in-out;
   background: #ffff;
   width: clamp(300px, 80vw, 700px);
   height: clamp(300px, 80vh, 500px);
