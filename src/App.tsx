@@ -27,7 +27,7 @@ function App() {
           <p>Area lote: 424 m<sup>2</sup></p>
           <p>Area construida: 331 m<sup>2</sup></p>
           <p>Area libre: 93 m<sup>2</sup></p>
-          <p>N° de pisos: 2</p>
+          <p>N° de pisos: 2 </p>
           <p>Altura: 2.2 m</p>
           <p>Frente 10.9 m</p>
           <p>Fondo: 44.05</p>
